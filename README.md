@@ -1,5 +1,7 @@
 ###########        Project Speechness      ##################
+
 Analysis code relating to Nora, Faisal et al 2020: Dynamic time-locking mechanism in the cortical representation of spoken words
+
 Last updated 9th Apr 2020 (c) Ali Faisal, Imaging Language group
 
 %NOTE
@@ -57,9 +59,13 @@ lagged = 18 (means 180ms)
 
 %Table for setting parameters:
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 %    20   100   180   260   340   420   500   580   660
+
 %     0     1     2     3     4     5     6     7     8 tau_index (end of window 2nd argument in submit_run.sh, 20 + LAG_NUMBER*80)
+
 %     2    10    18    26    34    42    50    58    66 lagged (start of window in mainNSF.m)
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 % The table is based on a code that uses the following:
