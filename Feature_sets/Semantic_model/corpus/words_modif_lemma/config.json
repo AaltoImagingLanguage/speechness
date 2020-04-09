@@ -1,0 +1,6 @@
+{
+    "format": "tsv",
+    "vector_dim": 300,
+    "version": 1,
+    "word_count": 52
+}
