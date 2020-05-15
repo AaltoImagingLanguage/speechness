@@ -8,9 +8,9 @@ Last updated 9th Apr 2020 (c) Ali Faisal, Imaging Language group
 
 -THE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
 
--Semantic norms are shared for stimuli presented to all particpants. Acoustic features vary for each stimulus set (because different speaker sets were used for different participant), and here only one example set for one participant (s03) is given for the acoustic and phoneme feature sets (FFT, MPS, spectrogram, envelope and phonemes)
+-Semantic norms are shared for stimuli presented to all participants. Acoustic features vary for each stimulus set (because different speaker sets were used for different participant), and here only one example set for one participant (s03) is given for the acoustic and phoneme feature sets (FFT, MPS, spectrogram, envelope and phonemes)
 
--Brain data is not included in the current files. It was uploaded together with the acoustic norms (in fle semspeech_model_s03.mat) 
+-Brain data is not included in the current files. In the original code it was uploaded together with the acoustic norms (in fle semspeech_model_s03.mat) 
 
 
 ##########   A) Regression model (semantic decoding, FFT & MPS acoustic decoding): ###########
